@@ -4,8 +4,8 @@ title: '记第一次创建博客'
 pubDate: 2023-4-7
 author: 'shi'
 cover:
-    url: '/public/book.png'
-    square: '/public/book.png'
+    url: '/book.png'
+    square: '/book.png'
     alt: 'cover'
 tags: ["日记"] 
 theme: 'light'
