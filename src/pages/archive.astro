@@ -2,7 +2,7 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import ArchivePostList from "../layouts/ArchivePostList.astro";
 const allPosts = await Astro.glob("./posts/*.md");
-const tags = ["记录","笔记", "日记", "源码研究","摄影"];
+const tags = ["记录","笔记", "日记"];
 const posts = [];
 
 tags.forEach((tag) => {
