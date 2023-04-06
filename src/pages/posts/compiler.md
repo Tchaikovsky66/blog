@@ -5,8 +5,8 @@ pubDate: 2022-9-12
 description: '[学习记录]'
 author: 'shi'
 cover:
-    url: 'https://img-blog.csdnimg.cn/15be782394e547eab713969fa6c9afa9.png'
-    square: 'https://img-blog.csdnimg.cn/15be782394e547eab713969fa6c9afa9.png'
+    url: '/public/compiler/compiler.png'
+    square: '/public/compiler/compiler.png'
     alt: 'cover'
 tags: ["笔记", “学习”] 
 theme: 'light'
