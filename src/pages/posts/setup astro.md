@@ -5,8 +5,8 @@ pubDate: 2023-04-7
 description: '在ubuntu18上用Astro部署个人博客'
 author: 'shi'
 cover:
-    #url: 'https://www.apple.com.cn/newsroom/images/product/homepod/standard/Apple-HomePod-hero-230118_big.jpg.large_2x.jpg'
-    #square: 'https://www.apple.com.cn/newsroom/images/product/homepod/standard/Apple-HomePod-hero-230118_big.jpg.large_2x.jpg'
+    url: 'https://pic.lookcos.cn/i/2023/02/28/hey1iq.png'
+    square: 'https://pic.lookcos.cn/i/2023/02/28/hey1iq.png'
     alt: 'cover'
 tags: ["笔记", "折腾", "记录"] 
 theme: 'light'
