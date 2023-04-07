@@ -5,8 +5,8 @@ pubDate: 2022-9-12
 description: '[学习记录]'
 author: 'shi'
 cover:
-    url: '/compiler/compiler.png'
-    square: '/compiler/compiler.png'
+    url: '/bianyi.png'
+    square: '/binyi.png'
     alt: 'cover'
 tags: ["笔记", “学习”] 
 theme: 'light'
