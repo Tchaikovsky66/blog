@@ -5,8 +5,8 @@ pubDate: 2022-9-12
 description: '[学习记录]'
 author: 'shi'
 cover:
-    url: '/public/compiler/compiler.png'
-    square: '/public/compiler/compiler.png'
+    url: '/compiler/compiler.png'
+    square: '/compiler/compiler.png'
     alt: 'cover'
 tags: ["笔记", “学习”] 
 theme: 'light'
@@ -27,7 +27,6 @@ featured: true
 3. 机器码生成Code Generation and Optimization: 翻译成另一个语言
 
 
-
 ## 1. 词法分析(scanner)
 ### 编译器进行扫描
 ==目的：明确源码中每个词的含义==
@@ -37,7 +36,7 @@ if temperayion <= 0 then\n
 end if 
 ```
 
-![](https://img-blog.csdnimg.cn/32af60e322fb4ad58fa0da6fc81c38d1.png)
+![](https://mg-blog.csdnimg.cn/32af60e322fb4ad58fa0da6fc81c38d1.png)
 
 
 ### 符号表
