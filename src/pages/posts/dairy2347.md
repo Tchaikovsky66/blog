@@ -5,8 +5,8 @@ pubDate: 2023-4-7
 description: '[2023 4月7日 13:49]'
 author: 'shi'
 cover:
-    url: '/compiler/compiler.png'
-    square: '/compiler/compiler.png'
+    url: '/book.png'
+    square: '/book.png'
     alt: 'cover'
 tags: ["日记"] 
 theme: 'light'
