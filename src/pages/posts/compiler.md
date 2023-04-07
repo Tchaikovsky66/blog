@@ -6,7 +6,6 @@ description: '[学习记录]'
 author: 'shi'
 cover:
     url: '/computer.png'
-    square: '/computer.png'
     alt: 'cover'
 tags: ["笔记", “学习”] 
 theme: 'light'
