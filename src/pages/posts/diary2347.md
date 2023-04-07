@@ -2,6 +2,7 @@
 layout: '../../layouts/MarkdownPost.astro'
 title: '记第一次创建博客'
 pubDate: 2023-4-7
+description: '[2023 4月7日 2:33]'
 author: 'shi'
 cover:
     url: '/book.png'
