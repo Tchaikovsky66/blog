@@ -5,8 +5,8 @@ pubDate: 2023-4-8
 description: 'launch文件用法'
 author: 'shi'
 cover:
-    url: 'http://wiki.ros.org/melodic?action=AttachFile&do=get&target=melodic.jpg'
-    square: 'http://wiki.ros.org/melodic?action=AttachFile&do=get&target=melodic.jpg'
+    url: '/melodic.jpg'
+    square: '/melodic.jpg'
     alt: 'cover'
 tags: ["笔记","ros","launch","xml"] 
 theme: 'light'

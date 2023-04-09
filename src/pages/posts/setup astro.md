@@ -8,7 +8,7 @@ cover:
     url: 'https://pic.lookcos.cn/i/2023/02/28/hey1iq.png'
     square: 'https://pic.lookcos.cn/i/2023/02/28/hey1iq.png'
     alt: 'cover'
-tags: ["笔记", "折腾", "记录"] 
+tags: ["记录","折腾"] 
 theme: 'light'
 featured: true
 ---
